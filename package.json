@@ -1,0 +1,12 @@
+{
+  "name": "thanuja-md",
+  "version": "1.0.0",
+  "description": "Multi-device WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0"
+  }
+}
