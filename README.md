@@ -16,3 +16,6 @@ A powerful multi-featured WhatsApp bot built using [Baileys](https://github.com/
 ```bash
 git clone https://github.com/THANUJA201133/THANUJA-MD.git
 cd THANUJA-MD
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/xyz123)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/THANUJA201133/THANUJA-MD)
